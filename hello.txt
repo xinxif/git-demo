@@ -19,3 +19,7 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello
+while(true)
+{
+	std::cout<<"hello atguiguyueyue\n";
+}
